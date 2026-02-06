@@ -1,5 +1,3 @@
-package oasistasks;
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -58,3 +56,4 @@ public class NumberGuessingGame {
         sc.close();
     }
 }
+
